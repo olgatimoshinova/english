@@ -1,2 +1,1 @@
-# english
-My first repo
+# liguistics
